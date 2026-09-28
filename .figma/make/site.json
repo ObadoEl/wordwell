@@ -1,0 +1,10 @@
+{
+  "description": "Connect clients with professional writers through a seamless marketplace that facilitates project posting, proposal management, and secure payments.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
